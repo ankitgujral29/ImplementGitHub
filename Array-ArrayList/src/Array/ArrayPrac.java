@@ -16,7 +16,7 @@ public class ArrayPrac  {
 */
 		
 		
-		/*String [] arrd =  new String[5];
+		String [] arrd =  new String[5];
 		arrd[0] = "One";
 		arrd[1] = "two";
 		arrd[2] = "three";
@@ -29,9 +29,9 @@ public class ArrayPrac  {
 				
 		
 		System.out.println(arrd[2]);
-		*/
 		
 		
+	/*	
 		int arr[] [] = new int [4] [4];
 		arr [0][0] = 10;
 		arr [0][1] = 20;
@@ -62,7 +62,7 @@ public class ArrayPrac  {
 				
 			}	
 						
-		}
+		}*/
 		
 		
 		
